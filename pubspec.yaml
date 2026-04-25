@@ -39,7 +39,7 @@ dependencies:
 
   # Outdated packages to trigger the IDP dashboard
   provider: ^6.0.0
-  http: ^0.13.5
+  http: ^1.0.0
   shared_preferences: ^2.0.15
 
 dev_dependencies:
